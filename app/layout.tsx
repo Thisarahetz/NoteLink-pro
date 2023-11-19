@@ -5,7 +5,7 @@ import { Footer, NavBar } from "@/components";
 export const metadata = {
   title: "NoteLink Pro",
   description:
-    "NoteLink Pro is a note taking app for students and professionals.",
+    "NoteLink Pro is a note taking app for students .",
 };
 
 export default function RootLayout({
